@@ -1,0 +1,417 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Johan Berglund",
+    "label": "Tech Enablement Manager at Storebrand / SPP",
+    "image": "",
+    "email": "johan@goku.se",
+    "phone": "",
+    "url": "",
+    "summary": "I am a tech savvy servant leader with a passion for learning and improving my self and others. I firmly believe in team work and that we are stronger together.",
+    "location": {
+      "countryCode": "US",
+      "address": "Sweden"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "johan-berglund-5236614",
+        "url": "https://www.linkedin.com/in/johan-berglund-5236614/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SPP",
+      "position": "Tech Enablement Manager",
+      "startDate": "2022-01-31",
+      "endDate": "2023-10-31",
+      "highlights": [],
+      "summary": "I am a manager and leader for a group of 6 and 4 consultants (over seas), as well as a member of both the Storebrand Cloud & Security and SPP IT leadership teams. \n\nI am a Product Owner for the infrastructure domain and a part of the SPP Product Owner team\n\nI promote agile and devops practices in various roles; Trainer/Educator/Facilitator/SPC and participate in driving the cloud transformation at Storebrand and SPP.",
+      "url": "https://www.linkedin.com/company/spp/",
+      "location": "Stockholm, Stockholm County, Sweden"
+    },
+    {
+      "name": "SPP",
+      "position": "Tech Enablement Manager",
+      "startDate": "2020-03-31",
+      "endDate": "2021-12-31",
+      "highlights": [],
+      "summary": "I am a manager and leader for a team of 6 and part of the SPP IT leadership team.\n\nI am a Product Owner for the infrastructure domain and a part of the Product Owner team\n\nI promote agile and devops practices in various roles; Trainer/Educator/Facilitator/SPC, Modern Ways of working guild member, Tech Enablement guild/cop leader and driving the cloud transformation at SPP.",
+      "url": "https://www.linkedin.com/company/spp/",
+      "location": "Stockholm, Stockholm County, Sweden"
+    },
+    {
+      "name": "Tele2",
+      "position": "Agile/DevOps Coach",
+      "startDate": "2018-11-30",
+      "endDate": "2020-03-31",
+      "highlights": [],
+      "summary": "I am part of an agile/devops transformation.\n\n Helping teams and management adopting agile and DevOps practices\n- Training 120+ persons in agile mindset and practices\n- Creating training materials and training workshops\n- Workshop facilitation\n- Coaching teams and individuals\n- Supporting the organisation in scaling agile (training, facilitation and coaching) using SAFe",
+      "url": "https://www.linkedin.com/company/tele2/",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "name": "Com Hem AB",
+      "position": "Agile/DevOps Coach",
+      "startDate": "2017-12-31",
+      "endDate": "2018-11-30",
+      "highlights": [],
+      "summary": "I am part of an agile/devops transformation. H\n\n- Helping teams and management adopting agile and DevOps practices\n- Training 120+ persons in agile mindset and practices\n- Creating training materials and training workshops\n- Workshop facilitation\n- Coaching teams and individuals\n- Supporting the organisation in scaling agile (training, facilitation and coaching) using SAFe",
+      "url": "https://www.linkedin.com/company/com-hem-ab/",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "name": "Com Hem AB",
+      "position": "Manager Team Delivery",
+      "startDate": "2017-05-31",
+      "endDate": "2017-11-30",
+      "highlights": [],
+      "summary": "I managed a team responsible for Com Hems Continuous Delivery platform and implementation. Supporting about 300 developers.\n\n- Managed a distributed team (3 in India and 1 in Gothenburg) of a total 6 direct reports\n- Recruiting new staff and consultants\n- Facilitated adoption of agile principles within the team\n- Expanding CI/CD and DevOps to new teams\n- Technical strategy & Life cycle managment\n- Member of Lead Architect Board\n- Budget responsibility",
+      "url": "https://www.linkedin.com/company/com-hem-ab/",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "name": "Com Hem AB",
+      "position": "Manager Team Delivery, Acting Manager Platform Production",
+      "startDate": "2016-10-31",
+      "endDate": "2017-05-31",
+      "highlights": [],
+      "summary": "I managed two teams responsible for operating and maintaining Com Hems system platforms (operating systems, software application and supporting systems) and also Com Hems Continuous Delivery platform and implementation. Supporting about 300 developers. \n\n- Managed two distributed teams (3 in India and 2 in Gothenburg) of a total 16 direct reports\n- Recruiting new staff and consultants\n- Facilitated adoption of agile principles within the team\n- Insourcing of IT services\n- Expanding CI/CD and DevOps to new teams\n- Technical strategy & Life cycle managment\n- Member of Lead Architect Board\n- Kubernetes and Cloud Implementations\n- Budget responsibility\n- Incident / Problem management\n- Workshop and offsite facilitation",
+      "url": "https://www.linkedin.com/company/com-hem-ab/",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "name": "Com Hem AB",
+      "position": "Manager Platform & Delivery",
+      "startDate": "2015-02-28",
+      "endDate": "2016-10-31",
+      "highlights": [],
+      "summary": "I managed a consolidated team. The team was responsible for operating and maintaining Com Hems server platforms (operating systems, software applications and supporting systems) and Com Hems Continuous Delivery platform and implementation. Supporting about 300 developers.\n\n- Managed a distributed team (3 in India and 2 in Gothenburg) of 16 direct reports\n- Recruiting new staff and consultants\n- Facilitated adoption of agile principles within the team\n- Insourcing of IT services (600+ systems and 3 staff)\n- Expanding CI/CD and DevOps to new teams\n- Technical strategy & Life cycle managment\n- Member of Lead Architect Board\n- Budget responsibility\n- Incident / Problem management\n- Workshop and offsite facilitation",
+      "url": "https://www.linkedin.com/company/com-hem-ab/",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "name": "Com Hem AB",
+      "position": "Manager Platform Production",
+      "startDate": "2013-04-30",
+      "endDate": "2015-02-28",
+      "highlights": [],
+      "summary": "I managed a team responsible for operating the systems for end customer services and supporting systems. This included server hardware, virtualization platform, operating systems and software applications.\n\n- Managed a team of 6 direct reports\n- Recruiting new staff and consultants\n- Technical strategy & Life cycle managment\n- Budget responsibility\n- Incident / Problem management\n- Workshop and offsite facilitation",
+      "url": "https://www.linkedin.com/company/com-hem-ab/",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "name": "Com Hem AB",
+      "position": "Technical Specialist / Project Manager",
+      "startDate": "2007-07-31",
+      "endDate": "2013-04-30",
+      "highlights": [],
+      "summary": "I was responsible for development and maintenance of DOCSIS/Packet Cable device provisioning systems, data retention and DNS.\nThis role has included being:\n\n- Project Manager of a pre-study/RFQ-process for a new device provisioning system.\n- Project Manager of an implementation of a service assurance provisioning system.\n- Technical specialist in data retention and DNS projects.\n\nI have also performed as:\n- Sub-PM and technical specialist in a project regarding FTTH and FTTB services. My main focus was on access network and CPE provisioning systems (RADIUS and DHCP). I built this with open source software.\n- System specialist in a project regarding new mail/web platform for end customers.\n- System specialist in a large IPTV project. Main focus was VOD systems.\n- System specialist regarding IPv6 for customer related services.\n\nI was on parental leave May – August 2008 and April – August 2012",
+      "url": "https://www.linkedin.com/company/com-hem-ab/",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "name": "Com Hem",
+      "position": "Senior System Engineer",
+      "startDate": "2006-06-30",
+      "endDate": "2007-07-31",
+      "highlights": [],
+      "summary": "Operations and maintenance of servers running Solaris, Linux and FreeBSD.\n\nMy main responsibility included DOCSIS device provisioning systems and migrating customers from UPC to Com Hem systems.",
+      "url": "https://www.linkedin.com/company/com-hem-ab/",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "name": "UPC",
+      "position": "Senior System Engineer",
+      "startDate": "2002-05-31",
+      "endDate": "2006-06-30",
+      "highlights": [],
+      "summary": "Operation and maintenance of servers running Solaris, Linux and FreeBSD.\n\nMy responsibilities included development of support tools using Java, Perl, PHP, MySQL and Oracle.\n\nI mentored two junior system administrators.\n\nI acted as technical specialist and PM of an IPTV implementation with regards to systems and system hardware.",
+      "url": "https://www.linkedin.com/company/liberty-global/"
+    },
+    {
+      "name": "Targian",
+      "position": "System Administrator/System Developer",
+      "startDate": "2001-12-31",
+      "endDate": "2002-05-31",
+      "highlights": [],
+      "summary": "Operations and maintenance of servers running Solaris, Linux and Windows.\n\nMy responsibilities included developing and maintaining software in Perl, C, PHP and Oracle.\n\nI implemented a monitoring system with SNMP functionality (Nagios/NetSaint).",
+      "url": ""
+    },
+    {
+      "name": "Acando",
+      "position": "Consultant - System Engineer",
+      "startDate": "1999-06-30",
+      "endDate": "2001-07-31",
+      "highlights": [],
+      "summary": "I was involved in a number of assignments and worked with technologies like: WAP, Perl, PHP, MySQL, Solaris, Java and BEA Weblogic\n\nI wrote the technical sections in several quotations.\n\nOperations and maintenance of demo and test environment (Solaris/Linux/Oracle Applications).",
+      "url": "https://www.linkedin.com/company/acando/"
+    },
+    {
+      "name": "Tele2",
+      "position": "System Administrator",
+      "startDate": "1996-12-31",
+      "endDate": "1999-12-31",
+      "highlights": [],
+      "summary": "Operations and maintenance of internet services. \nMy responsibilities included UNIX System administration of Solaris, HP-UX, IRIX, Linux and SCO Unix systems (hardware, operating systems and applications).\nI implemented, configured and maintained internet related services such as web, mail, news and support systems.\n\nI was also involved in evaluation of new systems such as a commercial mail solution.\n\nSystem and web development in C and Perl was a part of the role.",
+      "url": "https://www.linkedin.com/company/tele2/"
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified SAFe® 4 Program Consultant",
+      "issuer": "Scaled Agile Inc",
+      "endDate": "2022-11-30",
+      "startDate": "2019-11-30",
+      "url": "https://www.youracclaim.com/badges/ef030d0d-3b84-400c-9a5c-2cc33651ac9c/linked_in_profile"
+    },
+    {
+      "name": "ICAGILE CERTIFIED PROFESSIONAL - AGILE COACHING",
+      "issuer": "ICAgile",
+      "startDate": "2018-02-28",
+      "url": "https://www.icagile.com/credentials/c34894f5-ad23-4593-84fd-5e97090d2661"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Coaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Product Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tele2",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perl",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Change Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Devops",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VoIP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Facilitation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Puppet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DNS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Domain Name System (DNS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Telecommunications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Delivery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unix",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ethernet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TCP/IP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Distributed Team Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kanban",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Coaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ansible",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Configuration Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Coaching & Mentoring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Internet Protocol Suite (TCP/IP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Solaris",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Administration",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Full Professional",
+      "language": "English"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "German"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Swedish"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Tina Vincent",
+      "reference": "Johan har många intressanta sidor och perspektiv. Med sin bakgrund som både ledare och coach, har han ett inlyssnade förhållningssätt till problem han tar sig an, och grupper/team han hjälper. Han är den av mina kollegor jag alltid kan låna en bra bok av, eller få stöd när jag behöver en second opinion eller förslag på strategier för något jag är inne i, eller fråga om han vill hänga med, antingen på möte med kund eller något spännande seminarium. Han är en omtyckt person i både vårt team, på vår avdelning och i vår organisation. Lättsam, tekniskt kompetent, stöttande och samtidigt modigt nytänkande när det behövs.\nJag kan varmt rekommendera Johan och skulle mer än gärna fortsätta jobba tillsammans med honom!"
+    },
+    {
+      "name": "Håkan Lövén",
+      "reference": "Med tung domänkunskap kring produkt- och systemutveckling, har Johan varit en lysande stjärna i sina lean-agila strävan att stötta team och organisation."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
